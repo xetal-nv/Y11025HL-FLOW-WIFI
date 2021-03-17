@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RJ12
+D RJ12 connector with 2 shield pins
+K RJ12 connector
+$ENDCMP
+#
+#End Doc Library

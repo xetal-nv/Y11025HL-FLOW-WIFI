@@ -1,0 +1,29 @@
+Drill report for /home/marco/Data/XetalLocal/GIT/YugenFamily/YugenGate/Sensors/HW/Y11025HL-WIFI/Y11025HL-WIFI.kicad_pcb
+Created on Wed 17 Mar 2021 02:57:53 PM CET
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Y11025HL-WIFI-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.20mm  0.008"  (2 holes)
+    T2  0.30mm  0.012"  (42 holes)
+    T3  0.50mm  0.020"  (4 holes)
+    T4  0.65mm  0.026"  (5 holes)
+    T5  1.00mm  0.039"  (5 holes)
+    T6  2.20mm  0.087"  (4 holes)
+
+    Total plated holes count 62
+
+
+Drill file 'Y11025HL-WIFI-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.50mm  0.059"  (1 hole)  (with 1 slot)
+    T2  2.00mm  0.079"  (1 hole)
+
+    Total unplated holes count 2
