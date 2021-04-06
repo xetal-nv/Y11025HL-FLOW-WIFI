@@ -2,7 +2,5 @@
   (lib (name tlv767)(type Legacy)(uri ${KIPRJMOD}/SensorLib/tlv767.lib)(options "")(descr ""))
   (lib (name mlx90621)(type Legacy)(uri ${KIPRJMOD}/SensorLib/mlx90621.lib)(options "")(descr ""))
   (lib (name dspic33ep256gp502)(type Legacy)(uri ${KIPRJMOD}/SensorLib/dspic33ep256gp502.lib)(options "")(descr ""))
-  (lib (name dspic)(type Legacy)(uri ${KIPRJMOD}/SensorLib/dspic.lib)(options "")(descr ""))
-  (lib (name rj12)(type Legacy)(uri ${KIPRJMOD}/SensorLib/rj12.lib)(options "")(descr ""))
   (lib (name ESP8266)(type Legacy)(uri ${KIPRJMOD}/SensorLib/ESP8266.lib)(options "")(descr ""))
 )

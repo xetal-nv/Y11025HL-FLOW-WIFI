@@ -1,7 +1,5 @@
 (fp_lib_table
-  (lib (name MLX)(type KiCad)(uri "$(KIPRJMOD)/SensorLib/MLX.pretty")(options "")(descr ""))
   (lib (name ESP8266)(type KiCad)(uri ${KIPRJMOD}/SensorLib/ESP8266.pretty)(options "")(descr ""))
-  (lib (name RJ12)(type KiCad)(uri ${KIPRJMOD}/SensorLib/RJ12.pretty)(options "")(descr ""))
-  (lib (name RJ45)(type KiCad)(uri ${KIPRJMOD}/SensorLib/RJ45.pretty)(options "")(descr ""))
+  (lib (name MLX)(type KiCad)(uri ${KIPRJMOD}/SensorLib/MLX.pretty)(options "")(descr ""))
   (lib (name xetalsymbols)(type KiCad)(uri ${KIPRJMOD}/SensorLib/xetalsymbols.pretty)(options "")(descr ""))
 )
